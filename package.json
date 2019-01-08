@@ -1,0 +1,33 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "Gulp Template with Pug Plugin",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-csso": "^3.0.1",
+    "gulp-rename": "^1.4.0",
+    "imagemin-jpegoptim": "^6.0.0",
+    "imagemin-webp": "^5.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baregamyan/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baregamyan/gulp/issues"
+  },
+  "homepage": "https://github.com/Baregamyan/gulp#readme"
+}
